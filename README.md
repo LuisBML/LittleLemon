@@ -3,7 +3,7 @@
 Menu and Table Booking APIs using the Django Rest Framework.
 
 **Menu items**
-![Menu items](project_images/booking_list.jpeg)<br>
+![Menu items](project_images/booking_list.jpeg)<br><br><br>
 
 **Single item**
 ![Single item](project_images/single_item.jpeg)<br>
